@@ -2,6 +2,7 @@ baseURL = "https://MattWindsor91.github.io/"
 languageCode = "en-gb"
 title = "Matt Windsor's Web Thingy"
 theme = "aether"
+author = "Matt Windsor"
 
 [taxonomies]
   category = "categories"
@@ -11,27 +12,3 @@ theme = "aether"
   brand = "Matt Windsor"
   description = "Being a person who does verification and compiler stuff."
   twitter = "MattWindsor91"
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    subtitle = "Stuff, things, and whatnot."
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "Matt Windsor"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
