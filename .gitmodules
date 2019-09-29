@@ -7,3 +7,7 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
+[submodule "public"]
+	path = public
+	url = git@github.com:MattWindsor91/MattWindsor91.github.io.git
+	branch = master
