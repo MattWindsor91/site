@@ -1,0 +1,9 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/hugo-theme-basic"]
+	path = themes/hugo-theme-basic
+	url = https://github.com/siegerts/hugo-theme-basic.git
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether.git
